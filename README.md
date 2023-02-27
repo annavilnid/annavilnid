@@ -9,7 +9,7 @@
   <a href="mailto:anna.vilnid@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://t.me/annavilnid" rel="nofollow">
+  <a href="https://linkedin.com/in/anna-vilnid-96312a167" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -41,9 +41,9 @@
 </div>
 
 ### Моя статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annavilnid&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annavilnid&theme=white&background=FFFFFF)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annavilnid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annavilnid&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **annavilnid/annavilnid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
