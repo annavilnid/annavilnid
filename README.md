@@ -2,6 +2,18 @@
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300"/>
 </div>
 
+<div align="center" id="badges">
+   <a href="https://t.me/annavilnid" rel="nofollow">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:anna.vilnid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/annavilnid" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=b16002&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%BD%D0%BD%D0%B0!" alt="Typing SVG" /></a></h2>
 
 <p>Я - начинающий frontend-разработчик. Веб-разработкой заинтересовалась в конце 2021 года, вдохновившись примером своих друзей. Меня вдохновило то, как они решают сложные задачи, создают продукты, которыми ежедневно пользуется практически каждый.</p>
